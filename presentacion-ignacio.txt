@@ -1,3 +1,6 @@
 Hola! me llamo Ignacio Lucas Rosa, tengo 20 años y soy de San Martin.
-Realice secundario en el Colegio Sagrado Corazon y actualmente estoy cursando en la Universidad Nacional De San Martin.
-Estoy estudiando Tecnicatura en Programacion Informatica.
+Realice secundario en el Colegio Sagrado Corazon y actualmente estoy cursando en la Universidad Nacional De San Martin la carrera
+Tecnicatura en Programacion Informatica.
+Y en mi tiempo libre estoy realizando un curso Front End!
+:)
+
